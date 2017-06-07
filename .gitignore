@@ -19,6 +19,7 @@ DerivedData
 
 **/Carthage/Checkouts
 **/Carthage/Build
+Diff.framework.zip
 
 #SPM
 .build/
