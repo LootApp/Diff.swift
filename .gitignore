@@ -27,3 +27,6 @@ Diff.framework.zip
 
 #Vim
 *.swp
+
+fastlane/report.xml
+*.framework.zip
